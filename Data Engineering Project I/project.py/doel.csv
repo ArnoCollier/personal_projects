@@ -1,0 +1,23 @@
+id,a_naam,b_naam,team_scoort,tijd,stand,uur,date,a_clubid,b_clubid,id_scorend_team
+4314766,RSC Anderlecht,Antwerp FC,RSC Anderlecht,52',1:0,"zaterdag,za30 mrt. 2024-20:45 uur",30 mrt. 2024,58,1096,58
+4314767,Cercle Brugge,Club Brugge,Cercle Brugge,32',1:0,"maandag,ma1 apr. 2024-13:30 uur",1 apr. 2024,520,2282,520
+4314767,Cercle Brugge,Club Brugge,Club Brugge,83',1:1,"maandag,ma1 apr. 2024-13:30 uur",1 apr. 2024,520,2282,2282
+4314768,KRC Genk ,Union SG,KRC Genk ,27',1:0,"maandag,ma1 apr. 2024-18:30 uur",1 apr. 2024,1184,3948,1184
+4314775,Antwerp FC,KRC Genk ,KRC Genk ,43',0:1,"zaterdag,za6 apr. 2024-20:45 uur",6 apr. 2024,1096,1184,1184
+4314776,Union SG,Cercle Brugge,Cercle Brugge,5',0:1,"zondag,zo7 apr. 2024-13:30 uur",7 apr. 2024,3948,520,520
+4314776,Union SG,Cercle Brugge,Cercle Brugge,6',0:2,"zondag,zo7 apr. 2024-13:30 uur",7 apr. 2024,3948,520,520
+4314776,Union SG,Cercle Brugge,Union SG,45+5',1:2,"zondag,zo7 apr. 2024-13:30 uur",7 apr. 2024,3948,520,3948
+4314776,Union SG,Cercle Brugge,Cercle Brugge,71',1:3,"zondag,zo7 apr. 2024-13:30 uur",7 apr. 2024,3948,520,520
+4314776,Union SG,Cercle Brugge,Union SG,90+2',2:3,"zondag,zo7 apr. 2024-13:30 uur",7 apr. 2024,3948,520,3948
+4314777,Club Brugge,RSC Anderlecht,Club Brugge,3',1:0,"zondag,zo7 apr. 2024-18:30 uur",7 apr. 2024,2282,58,2282
+4314777,Club Brugge,RSC Anderlecht,Club Brugge,61',2:0,"zondag,zo7 apr. 2024-18:30 uur",7 apr. 2024,2282,58,2282
+4314777,Club Brugge,RSC Anderlecht,Club Brugge,89',3:0,"zondag,zo7 apr. 2024-18:30 uur",7 apr. 2024,2282,58,2282
+4314777,Club Brugge,RSC Anderlecht,RSC Anderlecht,90+1',3:1,"zondag,zo7 apr. 2024-18:30 uur",7 apr. 2024,2282,58,58
+4314778,KRC Genk ,Cercle Brugge,KRC Genk ,18',1:0,"zaterdag,za13 apr. 2024-20:45 uur",13 apr. 2024,1184,520,1184
+4314778,KRC Genk ,Cercle Brugge,Cercle Brugge,78',1:1,"zaterdag,za13 apr. 2024-20:45 uur",13 apr. 2024,1184,520,520
+4314779,Club Brugge,Antwerp FC,Club Brugge,44',1:0,"zondag,zo14 apr. 2024-13:30 uur",14 apr. 2024,2282,1096,2282
+4314779,Club Brugge,Antwerp FC,Club Brugge,60',2:0,"zondag,zo14 apr. 2024-13:30 uur",14 apr. 2024,2282,1096,2282
+4314779,Club Brugge,Antwerp FC,Club Brugge,90+6',3:0,"zondag,zo14 apr. 2024-13:30 uur",14 apr. 2024,2282,1096,2282
+4314780,RSC Anderlecht,Union SG,RSC Anderlecht,11',1:0,"zondag,zo14 apr. 2024-18:30 uur",14 apr. 2024,58,3948,58
+4314780,RSC Anderlecht,Union SG,Union SG,66',1:1,"zondag,zo14 apr. 2024-18:30 uur",14 apr. 2024,58,3948,3948
+4314780,RSC Anderlecht,Union SG,RSC Anderlecht,76',2:1,"zondag,zo14 apr. 2024-18:30 uur",14 apr. 2024,58,3948,58
